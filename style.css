@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f6f8;
+  padding: 40px;
+}
+
+.faq {
+  max-width: 500px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+.item h3 {
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+.item p {
+  display: none;
+  margin: 5px 0 15px;
+  color: #555;
+}
